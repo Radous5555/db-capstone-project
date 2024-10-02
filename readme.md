@@ -1,0 +1,1 @@
+This repo contains the capstone project of the Meta Database Engineer Specialization series of courses.
